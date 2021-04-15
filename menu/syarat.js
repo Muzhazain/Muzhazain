@@ -1,0 +1,35 @@
+const syarat = () => { 
+	return `       
+
+◪ *SYARAT*
+╔═════════════════❍
+║LinkGrub:https://chat.whatsapp.com/Fe48dzVNKB62mvT8cYlKmz
+║▬▭▬▭▬▭▬▭▬▭
+PEMBELIAN AKAN DI PROSES SETELAH 1/2 MENIT 
+
+BILA SALDO ADMIN KURANG MOHON TUNGGU ±30MENIT SETELAH PEMBELIAN
+
+BUKA 09:00-18:00 
+SETIAP HARI
+
+SELOW RESPON ADMIN JUGA BEKERJA. 
+
+SYARAT UNTUK BELI
+TOP UP GAME
+NAMA:
+NICK:
+ID:
+JUMLAH DIAMOND:
+PEMBAYAR AN VIA:
+
+BUKTI PEMBAYARAN :
+
+PULSA :
+NAMA:
+NO YANG DI TUJU:
+BUKTI PEMBAYARAN :
+║▬▭▬▭▬▭▬▭▬▭
+╚═════════════════❍ `
+}
+
+exports.syarat = syarat
